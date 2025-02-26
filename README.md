@@ -22,13 +22,13 @@
     <tr>
       <td>
         <h2>📈 GitHub Insights</h2>
-        <p>
+        <p>          
           <img src="https://github-readme-stats.vercel.app/api?username=kishore-2&show_icons=true&theme=radical" alt="GitHub Stats"/>
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishore-2&theme=radical" alt="GitHub Streak"/>
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore-2&layout=compact&theme=radical" alt="Top Languages"/>
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishore-2&theme=radical" alt="GitHub Streak"/>          
         </p>
-        <p>
-          <img src="https://visitor-badge.glitch.me/badge?page_id=kishore-2.kishore-2" alt="Visitor Count"/>
+         <p>
+          <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kishore-2&title=Profile%20Views" alt="Visitor Count"/>
         </p>
       </td>
     </tr>
@@ -115,7 +115,7 @@ Skills:
 📫 How to Reach Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kkbp/"> <img src="https://img.shields.io/badge/LinkedIn-Kishore-blue?style=for-the-badge&logo=Linkedin" alt="LinkedIn"/> </a> <br>
+<a href="https://www.linkedin.com/in/kkbp/"> <img src="https://img.shields.io/badge/LinkedIn-in/kkbp-blue?style=for-the-badge&logo=Linkedin" alt="LinkedIn"/> </a> <br>
 <a href="https://github.com/kishore-2/"> <img src="https://img.shields.io/badge/GitHub-kishore--2-181717?style=for-the-badge&logo=github" alt="GitHub"/> </a> <br>
 <a href="mailto:kishorekumarbpk@gmail.com"> <img src="https://img.shields.io/badge/Email-kishorekumarbpk@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/> </a>
 </p> 
