@@ -21,26 +21,6 @@
   <table>
     <tr>
       <td>
-        <h2>📈 GitHub Insights</h2>
-        <p>          
-          <img src="https://github-readme-stats.vercel.app/api?username=kishore-2&show_icons=true&theme=radical" alt="GitHub Stats"/>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore-2&layout=compact&theme=radical" alt="Top Languages"/>
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishore-2&theme=radical" alt="GitHub Streak"/>          
-        </p>
-         <p>
-          <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kishore-2&title=Profile%20Views" alt="Visitor Count"/>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
         <h2>About Me</h2>
         <p><strong>Name:</strong> Kishore Kumar BP</p>
         <p><strong>Interests:</strong> DevOps, Cloud Computing, Automation, AI</p>
@@ -52,6 +32,24 @@
           <li>Git & GitHub</li>
           <li>CI/CD Pipelines</li>
         </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h2>📈 GitHub Insights</h2>
+        <p align="center">          
+          <img src="https://github-readme-stats.vercel.app/api?username=kishore-2&show_icons=true&theme=radical" alt="GitHub Stats"/> <br>
+          <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore-2&layout=compact&theme=radical" alt="Top Languages"/> <br> -->
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishore-2&theme=radical" alt="GitHub Streak"/> <br>
+          <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kishore-2&title=Profile%20Views" alt="Visitor Count"/>
+        </p>
       </td>
     </tr>
   </table>
