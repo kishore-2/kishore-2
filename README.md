@@ -18,7 +18,15 @@
 
 ---
 
-## GitHub Stats &nbsp;&nbsp; ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kishore-2&title=Profile%20Views)
+### 🏆 GitHub Foundations Certification
+
+<div align="center" style="padding: 10px;">
+  <a href="https://www.credly.com/badges/8d3949a8-6e4d-45c9-a316-177f36679296/public_url">
+    <img src="https://github.com/user-attachments/assets/70171794-53f7-4313-83d3-51a123b90d2a" alt="GitHub Foundations Badge" width="150" style="border: 5px solid #fff; border-radius: 8px;" />
+  </a>
+</div>
+
+### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishore-2&show_icons=true&theme=radical&cache_seconds=1800)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kishore-2&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
