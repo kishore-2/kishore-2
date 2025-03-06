@@ -2,9 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hello,+It's+Kishore!&fontSize=40&animation=fadeIn&theme=snow" alt="Header Image"/>
 </p> 
 
----
 
-## About Me  
+### About Me  
 - **Name:** Kishore Kumar BP
 - **About:** **Aspiring DevOps Engineer** | Cloud Computing Enthusiast | Automation & AI Fan
 - **Education:** **Bachelor of Computer Science Engineering (Cloud Computing Specialization)** 
@@ -18,14 +17,6 @@
 
 ---
 
-### 🏆 GitHub Foundations Certification
-
-<div align="center" style="padding: 10px;">
-  <a href="https://www.credly.com/badges/8d3949a8-6e4d-45c9-a316-177f36679296/public_url">
-    <img src="https://github.com/user-attachments/assets/70171794-53f7-4313-83d3-51a123b90d2a" alt="GitHub Foundations Badge" width="150" style="border: 5px solid #fff; border-radius: 8px;" />
-  </a>
-</div>
-
 ### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishore-2&show_icons=true&theme=radical&cache_seconds=1800)
@@ -38,19 +29,25 @@
 
 ---
 
-### Skills & Technologies
+### GitHub Foundations Certification
 
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/> </p>
-
----
+<div align="center" style="padding: 10px;">
+  <a href="https://www.credly.com/badges/8d3949a8-6e4d-45c9-a316-177f36679296/public_url">
+    <img src="https://github.com/user-attachments/assets/70171794-53f7-4313-83d3-51a123b90d2a" alt="GitHub Foundations Badge" width="150" style="border: 5px solid #fff; border-radius: 8px;" />
+  </a>
+</div>
 
 ###  Featured Projects  
 
--   **Street Parking Management 🅿️🚗**  
+-   **[Street Parking Management 🅿️🚗](https://github.com/kishore-2/StreetParkingManagement)**  
     Built a cloud-based AI system using **Microsoft Azure** to predict parking availability and optimize space utilization.  
 
--   **Chat with Your Documents 📄🤖**  
+-   **[Chat with Your Documents 📄🤖](https://github.com/kishore-2/rag-system)**  
     Developed an **AI-powered document assistant** that allows users to upload PDFs and get instant answers.  
+
+### Skills & Technologies
+
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/> </p>
 
 ---
 
